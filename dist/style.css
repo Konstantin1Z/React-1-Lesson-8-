@@ -1,0 +1,21 @@
+body {
+  background-color: skyblue; }
+
+.in {
+  width: 10%; }
+
+.in:hover {
+  background-color: grey; }
+
+h1, h2 {
+  color: green;
+  text-align: center; }
+
+img {
+  width: 50%;
+  border-radius: 50px;
+  margin-left: 25%; }
+
+button {
+  margin-left: 48%; }
+

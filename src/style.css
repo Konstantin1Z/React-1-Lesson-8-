@@ -1,0 +1,13 @@
+body
+{
+	background-color: skyblue;
+}
+.in
+{
+	width: 10%;
+}
+
+.in:hover
+{
+	background-color: grey;
+}
